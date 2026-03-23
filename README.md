@@ -110,5 +110,5 @@ analytical techniques.
 
 ## 👨‍💻 Author
 
-Khilan Mangukiya\
+Feni Soni\
 Data Analytics Practical Submission
